@@ -1,3 +1,7 @@
 # Skills
 
-[about-skillbrary](about-skillbrary)
+----------
+skill | description
+----------
+[about-skillbrary](about-skillbrary) | Explains Skillbrary
+----------
